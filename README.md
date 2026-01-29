@@ -1,3 +1,4 @@
 # rubengomezfe.github.io
-theme:jekyll-theme-minimal
+Hello this is my future website
+
 
