@@ -1,5 +1,5 @@
 # Cultural Anthropology | University of Amsterdam
-Currently doing the Research Master in Social Sciences at the University of Amsterdam with a focus on moral markets 
+
 
 ---
 
@@ -10,3 +10,9 @@ Currently doing the Research Master in Social Sciences at the University of Amst
 - Migration and belonging
 - Mundane effects of quantification
 - Qualitative research design
+
+## Education
+- Research Master's, Social Sciences, University of Amsterdam. September 2025 - Expected end: June 2027
+    Interpretative track. Current GPA: 8.4
+- Bsc Cultura Anthropology and Development Sociology. September 2022 - June 2025
+    Cum Laude and completion of the College of Social Sciences Honour's and Talent Program
