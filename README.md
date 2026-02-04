@@ -1,24 +1,45 @@
-# Cultural Anthropology | University of Amsterdam
+# Cultural Anthropology
 
+**University of Amsterdam**
 
 ---
 
 ## Research Interests
-- Cultural anthropolgy
-- Latin american studies
-- Food and sustainable systems
-- Migration and belonging
-- Mundane effects of quantification
-- Qualitative research design
+
+* Cultural anthropology
+* Latin American studies
+* Food systems & sustainability
+* Migration, mobility, and belonging
+* Mundane effects of quantification
+* Qualitative research design
 
 ## Prior Research
--Half Thesis on
--Half Thesis on
--Half Thesis on
--Half Thesis on
+
+* **Bachelor’s Thesis (Half Thesis)** – *[Working title or topic]*
+* **Research Project (Half Thesis)** – *[Working title or topic]*
+* **Research Project (Half Thesis)** – *[Working title or topic]*
+* **Research Project (Half Thesis)** – *[Working title or topic]*
+
+> Tip: Replace placeholders with titles, methods, and a one‑line finding if possible.
 
 ## Education
-- Research Master's, Social Sciences, University of Amsterdam. September 2025 - Expected end: June 2027
--     Interpretative track. Current GPA: 8.4
-- Bsc Cultural Anthropology and Development Sociology. September 2022 - June 2025
--     Cum Laude and completion of the College of Social Sciences Honour's and Talent Program
+
+**Research Master’s in Social Sciences** — University of Amsterdam
+*September 2025 – Expected June 2027*
+
+* Interpretative Track
+* Current GPA: **8.4**
+
+**BSc in Cultural Anthropology and Development Sociology** — University of Amsterdam
+*September 2022 – June 2025*
+
+* *Cum Laude*
+* College of Social Sciences Honours & Talent Programme
+
+---
+
+### Optional Add‑Ons
+
+* **Methods:** Interviews, participant observation, discourse analysis, archival research
+* **Languages:** *[Add languages + proficiency]*
+* **Contact:** *[Email]* · *[GitHub]* · *[Google Scholar]*
