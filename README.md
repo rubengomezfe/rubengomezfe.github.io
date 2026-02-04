@@ -1,45 +1,63 @@
-# Cultural Anthropology
+Cultural Anthropologist and Social Science Researcher
 
-**University of Amsterdam**
+University of Amsterdam
 
----
+Research Interests
 
-## Research Interests
+On-the-ground manifestations of capitalism
 
-* Cultural anthropology
-* Latin American studies
-* Food systems & sustainability
-* Migration, mobility, and belonging
-* Mundane effects of quantification
-* Qualitative research design
+Financialization and moral markets
 
-## Prior Research
+Racial capitalism
 
-* **Bachelor’s Thesis (Half Thesis)** – *[Working title or topic]*
-* **Research Project (Half Thesis)** – *[Working title or topic]*
-* **Research Project (Half Thesis)** – *[Working title or topic]*
-* **Research Project (Half Thesis)** – *[Working title or topic]*
+Platform economies and precarity
 
-> Tip: Replace placeholders with titles, methods, and a one‑line finding if possible.
+Peasant studies
 
-## Education
+Prior Research
 
-**Research Master’s in Social Sciences** — University of Amsterdam
-*September 2025 – Expected June 2027*
+Research Master's
 
-* Interpretative Track
-* Current GPA: **8.4**
+Documents and Bodies: An Autoethnography on Passports and the Enactment of Race
 
-**BSc in Cultural Anthropology and Development Sociology** — University of Amsterdam
-*September 2022 – June 2025*
+Lines in the Sand: Understanding Anti-Migration Attitudes in Migrant Communities Through the Cuban and Venezuelan Communities in Miami
 
-* *Cum Laude*
-* College of Social Sciences Honours & Talent Programme
+Four Bachelor's Half Thesis and an Honour's Expansion:
 
----
+Not quite ripe yet: The Interplay Between Land Tenure and Labor Regimes in 20th century Ecuadorian Banana Plantations
 
-### Optional Add‑Ons
+Birds of a Feather: Multispecies Manifestations of Exclusion and Care through the Lens of Amsterdam’s Homeless and Pigeon Populations.
 
-* **Methods:** Interviews, participant observation, discourse analysis, archival research
-* **Languages:** *[Add languages + proficiency]*
-* **Contact:** *[Email]* · *[GitHub]* · *[Google Scholar]*
+Deep Rift: How the Ecuadorian Earthquake of 2016 Deepened Divisions within the Country
+
+On Hold: Meaning Making and Constructing the Costa Rican Call Center Worker
+
+The Honour's Program expansion for this thesis is titled: Transnational Calling Plan: Systems of Transnational Racial Capitalism and segregation in Costa Rican Call Centers
+
+Education
+
+Research Master’s in Social Sciences — University of AmsterdamSeptember 2025 – Expected June 2027
+
+Interpretative Track
+
+Current GPA: 8.4
+
+BSc in Cultural Anthropology and Development Sociology — University of AmsterdamSeptember 2022 – June 2025
+
+Cum Laude
+
+College of Social Sciences Honours & Talent Programme
+
+
+
+Languages: 
+
+-Spanish: Native speaker
+
+-English: Native Speaker
+
+-Dutch: Working Proficiency
+
+Contact: 
+
+rubengomezfe@gmail.com
