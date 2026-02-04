@@ -37,7 +37,7 @@ I am an anthropologist researching how moral finance and racial capitalism manif
 
 <h3>Monitoring and Evaluation</h3>
 <ul>
-  <li>On-the-ground manifestations of capitalism</li>
+  <li><strong>Qualitative Researcher for Greenpeace International's Monitoring and Evaluation Team:</strong> Provided the ethnographic data collection for the "Solidarity Index" project through which GPI aims to evaluate the success of its relationship with their stakeholders.</li>
 </ul>
 
 <h3>Bachelor’s Half-Theses Research (incl. Honours Expansion)</h3>
