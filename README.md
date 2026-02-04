@@ -1,12 +1,10 @@
-<!-- IMPORTANT: If this page is not rendering, make sure the file name ends in .md (e.g. README.md or index.md) and is NOT inside a code block -->
-
 <h1>Cultural Anthropologist and Social Science Researcher</h1>
 <p><strong>University of Amsterdam</strong></p>
 <hr />
 
 <h2>Profile</h2>
 <p>
-I am a cultural anthropologist trained in qualitative and interpretative social science, with research interests at the intersection of political economy, migration, and racial capitalism. My work examines how large-scale economic and bureaucratic systems are lived, negotiated, and moralized in everyday practices, with particular attention to labor regimes, mobility, and forms of exclusion and belonging. Regionally, I focus on Latin America and its diasporas, combining ethnographic, autoethnographic, and document-based methods.
+I am an anthropologist researching how moral finance and racial capitalism manifest in the context of indigenous banks in Ecuador. My interests combine the studies of land tenure, food systems, indigeneity, and financialization. My main analytical tools are based on Marxist and Foucauldian traditions through which I aim to add nuance to top-down theories on capitalism, racialization, and the nation-state by comparing them to people's lived experiences. I have experience in multiple types of ethnography, specializing in participant observation, multispecies, digital, and autoethnography, which allows me to integrate varied empirical cases into theoretical discussions.
 </p>
 
 <h2>Research Interests</h2>
@@ -16,6 +14,7 @@ I am a cultural anthropologist trained in qualitative and interpretative social 
   <li>Racial capitalism</li>
   <li>Platform economies and precarity</li>
   <li>Peasant studies</li>
+  <li>Human-Animal Studies</li>
 </ul>
 
 <h2>Prior Research</h2>
@@ -25,47 +24,52 @@ I am a cultural anthropologist trained in qualitative and interpretative social 
   <li>
   <strong>Documents and Bodies:</strong> An Autoethnography on Passports and the Enactment of Race
   <p>
-  This project uses autoethnography and document analysis to examine how passports and state documentation enact racialized forms of mobility and immobility. It explores the embodied and affective dimensions of bureaucratic encounters, foregrounding how race is produced through mundane administrative practices.
+  PLACEHOLDER
   </p>
 </li>
   <li>
   <strong>Lines in the Sand:</strong> Understanding Anti-Migration Attitudes in Migrant Communities through the Cuban and Venezuelan Communities in Miami
   <p>
-  Based on qualitative interviews and community analysis, this research investigates how migrant communities articulate exclusionary attitudes toward newer migrants. It situates these attitudes within histories of displacement, political ideology, and differential incorporation into U.S. racial and labor hierarchies.
+  PLACEHOLDER
   </p>
 </li>
 </ul>
 
-<h3>Bachelor’s Research Projects (incl. Honours Expansion)</h3>
+<h3>Monitoring and Evaluation</h3>
+<ul>
+  <li>On-the-ground manifestations of capitalism</li>
+</ul>
+
+<h3>Bachelor’s Half-Theses Research (incl. Honours Expansion)</h3>
 <ul>
   <li>
   <strong>Not Quite Ripe Yet:</strong> The Interplay Between Land Tenure and Labor Regimes in 20th-Century Ecuadorian Banana Plantations
   <p>
-  This historical-anthropological study analyzes how shifting land tenure systems shaped labor regimes in Ecuador’s banana industry. Drawing on archival sources, it traces the relationship between agrarian capitalism, class formation, and rural precarity.
+  PLACEHOLDER
   </p>
 </li>
   <li>
   <strong>Birds of a Feather:</strong> Multispecies Manifestations of Exclusion and Care through the Lens of Amsterdam’s Homeless and Pigeon Populations
   <p>
-  Using multispecies ethnography, this project examines parallel regimes of care, neglect, and exclusion affecting homeless humans and urban pigeons. It interrogates how urban governance produces hierarchies of life and belonging across species lines.
+ PLACEHOLDER
   </p>
 </li>
   <li>
   <strong>Deep Rift:</strong> How the Ecuadorian Earthquake of 2016 Deepened Divisions within the Country
   <p>
-  This project explores how natural disasters exacerbate existing social, regional, and political inequalities. Focusing on the 2016 Ecuadorian earthquake, it analyzes uneven recovery processes and competing narratives of national solidarity.
+ PLACEHOLDER
   </p>
 </li>
   <li>
   <strong>On Hold:</strong> Meaning-Making and Constructing the Costa Rican Call Center Worker
   <p>
-  Based on interviews and workplace analysis, this research examines how call center workers in Costa Rica construct meaning, identity, and aspiration within transnational labor regimes.
+  PLACEHOLDER
   </p>
   <p>
   <strong>Honours expansion — Transnational Calling Plan:</strong> Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers
   </p>
   <p>
-  The honours expansion situates call centers within broader systems of racial capitalism, analyzing how language, accent, and nationality structure labor segmentation and social mobility in transnational service economies.
+  PLACEHOLDER
   </p>
 </li>
 </ul>
@@ -75,7 +79,7 @@ I am a cultural anthropologist trained in qualitative and interpretative social 
 <em>September 2025 – Expected June 2027</em></p>
 <ul>
   <li>Interpretative Track</li>
-  <li>Current GPA: <strong>8.4</strong></li>
+  <li>Current GPA:8.4</li>
 </ul>
 
 <p><strong>BSc in Cultural Anthropology and Development Sociology</strong> — University of Amsterdam<br />
