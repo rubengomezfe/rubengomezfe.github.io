@@ -17,7 +17,7 @@
 
 <h3>Research Master’s Projects</h3>
 <ul>
-  <li><strong>Documents and Bodies: An Autoethnography on Passports and the Enactment of Race</strong></li>
+  <li><strong>Documents and Bodies:</strong> An Autoethnography on Passports and the Enactment of Race</li>
   <li><strong>Lines in the Sand:</strong> Understanding Anti-Migration Attitudes in Migrant Communities through the Cuban and Venezuelan Communities in Miami</li>
 </ul>
 
@@ -27,7 +27,7 @@
   <li><strong>Birds of a Feather:</strong> Multispecies Manifestations of Exclusion and Care through the Lens of Amsterdam’s Homeless and Pigeon Populations</li>
   <li><strong>Deep Rift:</strong> How the Ecuadorian Earthquake of 2016 Deepened Divisions within the Country</li>
   <li><strong>On Hold:</strong> Meaning-Making and Constructing the Costa Rican Call Center Worker<br />
-      <em>Honours expansion:</em> <strong>Transnational Calling Plan: Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers</strong></li>
+      <strong>Honours expansion:Transnational Calling Plan:</strong> Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers</li>
 </ul>
 
 <h2>Education</h2>
