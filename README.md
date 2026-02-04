@@ -1,63 +1,56 @@
-Cultural Anthropologist and Social Science Researcher
+<!-- IMPORTANT: If this page is not rendering, make sure the file name ends in .md (e.g. README.md or index.md) and is NOT inside a code block -->
 
-University of Amsterdam
+<h1>Cultural Anthropologist and Social Science Researcher</h1>
+<p><strong>University of Amsterdam</strong></p>
+<hr />
 
-Research Interests
+<h2>Research Interests</h2>
+<ul>
+  <li>On-the-ground manifestations of capitalism</li>
+  <li>Financialization and moral markets</li>
+  <li>Racial capitalism</li>
+  <li>Platform economies and precarity</li>
+  <li>Peasant studies</li>
+</ul>
 
-On-the-ground manifestations of capitalism
+<h2>Prior Research</h2>
 
-Financialization and moral markets
+<h3>Research Master’s Projects</h3>
+<ul>
+  <li><strong>Documents and Bodies: An Autoethnography on Passports and the Enactment of Race</strong></li>
+  <li><strong>Lines in the Sand:</strong> Understanding Anti-Migration Attitudes in Migrant Communities through the Cuban and Venezuelan Communities in Miami</li>
+</ul>
 
-Racial capitalism
+<h3>Bachelor’s Research Projects (incl. Honours Expansion)</h3>
+<ul>
+  <li><strong>Not Quite Ripe Yet:</strong> The Interplay Between Land Tenure and Labor Regimes in 20th-Century Ecuadorian Banana Plantations</li>
+  <li><strong>Birds of a Feather:</strong> Multispecies Manifestations of Exclusion and Care through the Lens of Amsterdam’s Homeless and Pigeon Populations</li>
+  <li><strong>Deep Rift:</strong> How the Ecuadorian Earthquake of 2016 Deepened Divisions within the Country</li>
+  <li><strong>On Hold:</strong> Meaning-Making and Constructing the Costa Rican Call Center Worker<br />
+      <em>Honours expansion:</em> <strong>Transnational Calling Plan: Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers</strong></li>
+</ul>
 
-Platform economies and precarity
+<h2>Education</h2>
+<p><strong>Research Master’s in Social Sciences</strong> — University of Amsterdam<br />
+<em>September 2025 – Expected June 2027</em></p>
+<ul>
+  <li>Interpretative Track</li>
+  <li>Current GPA: <strong>8.4</strong></li>
+</ul>
 
-Peasant studies
+<p><strong>BSc in Cultural Anthropology and Development Sociology</strong> — University of Amsterdam<br />
+<em>September 2022 – June 2025</em></p>
+<ul>
+  <li><em>Cum Laude</em></li>
+  <li>College of Social Sciences Honours & Talent Programme</li>
+</ul>
 
-Prior Research
+<h2>Languages</h2>
+<ul>
+  <li><strong>Spanish:</strong> Native</li>
+  <li><strong>English:</strong> Native</li>
+  <li><strong>Dutch:</strong> Working proficiency</li>
+</ul>
 
-Research Master's
-
-Documents and Bodies: An Autoethnography on Passports and the Enactment of Race
-
-Lines in the Sand: Understanding Anti-Migration Attitudes in Migrant Communities Through the Cuban and Venezuelan Communities in Miami
-
-Four Bachelor's Half Thesis and an Honour's Expansion:
-
-Not quite ripe yet: The Interplay Between Land Tenure and Labor Regimes in 20th century Ecuadorian Banana Plantations
-
-Birds of a Feather: Multispecies Manifestations of Exclusion and Care through the Lens of Amsterdam’s Homeless and Pigeon Populations.
-
-Deep Rift: How the Ecuadorian Earthquake of 2016 Deepened Divisions within the Country
-
-On Hold: Meaning Making and Constructing the Costa Rican Call Center Worker
-
-The Honour's Program expansion for this thesis is titled: Transnational Calling Plan: Systems of Transnational Racial Capitalism and segregation in Costa Rican Call Centers
-
-Education
-
-Research Master’s in Social Sciences — University of AmsterdamSeptember 2025 – Expected June 2027
-
-Interpretative Track
-
-Current GPA: 8.4
-
-BSc in Cultural Anthropology and Development Sociology — University of AmsterdamSeptember 2022 – June 2025
-
-Cum Laude
-
-College of Social Sciences Honours & Talent Programme
-
-
-
-Languages: 
-
--Spanish: Native speaker
-
--English: Native Speaker
-
--Dutch: Working Proficiency
-
-Contact: 
-
-rubengomezfe@gmail.com
+<h2>Contact</h2>
+<p>Email: <a href="mailto:rubengomezfe@gmail.com">rubengomezfe@gmail.com</a></p>
