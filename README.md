@@ -30,7 +30,7 @@ I am an anthropologist researching how moral finance and racial capitalism manif
   <li>
   <strong>Lines in the Sand:</strong> Understanding Anti-Migration Attitudes in Migrant Communities through the Cuban and Venezuelan Communities in Miami
   <p>
-  <Strong>Research Question:</Strong>
+  <Strong>Research Question:</Strong> How can we understand the formation of anti-migration stances within migrant communities, especially within Venezuelan and Cuban communities in Miami? 
   </p>
 </li>
 </ul>
@@ -45,13 +45,13 @@ I am an anthropologist researching how moral finance and racial capitalism manif
   <li>
   <strong>Not Quite Ripe Yet:</strong> The Interplay Between Land Tenure and Labor Regimes in 20th-Century Ecuadorian Banana Plantations
   <p>
-  <Strong>Research Question:</Strong>
+  <Strong>Research Question:</Strong> “How have evolving land tenures affected labor regimes in Ecuadorian banana plantations in the 20th century?”
   </p>
 </li>
   <li>
   <strong>Birds of a Feather:</strong> Multispecies Manifestations of Exclusion and Care through the Lens of Amsterdam’s Homeless and Pigeon Populations
   <p>
- <Strong>Research Question:</Strong>
+ <Strong>Research Question:</Strong> How do mechanisms of exploitation that serve as the base of the violence of urban life pass onto other-than-humans inhabitants
   </p>
 </li>
   <li>
@@ -63,7 +63,7 @@ I am an anthropologist researching how moral finance and racial capitalism manif
   <li>
   <strong>On Hold:</strong> Meaning-Making and Constructing the Costa Rican Call Center Worker
   <p>
-  <Strong>Research Question:</Strong>
+  <Strong>Research Question:</Strong> How do middle class Costa Rican young adults interact with and experience the transnational call center industry?
   </p>
   <p>
   <strong>Honours expansion — Transnational Calling Plan:</strong> Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers
