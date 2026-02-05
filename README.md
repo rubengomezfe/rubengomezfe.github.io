@@ -14,7 +14,7 @@ I am an anthropologist researching how moral finance and racial capitalism manif
   <li>Racial capitalism</li>
   <li>Platform economies and precarity</li>
   <li>Peasant studies</li>
-  <li>Human-Animal Studies</li>
+  <li>Human-animal studies</li>
 </ul>
 
 <h2>Prior Research</h2>
@@ -37,7 +37,7 @@ I am an anthropologist researching how moral finance and racial capitalism manif
 
 <h3>Monitoring and Evaluation</h3>
 <ul>
-  <li><strong>Qualitative Researcher for Greenpeace International's Monitoring and Evaluation Team:</strong> Provided the ethnographic data collection for the "Solidarity Index" project through which GPI aims to evaluate the success of its relationship with their stakeholders.</li>
+  <li><strong>Qualitative Researcher for Greenpeace International's Monitoring and Evaluation Team:</strong> Provided the ethnographic data collection for the "Solidarity Index" project through which GPI aims to evaluate the success of its relationship with internal and external stakeholders.</li>
 </ul>
 
 <h3>Bachelor’s Half-Theses Research (incl. Honours Expansion)</h3>
@@ -74,6 +74,11 @@ I am an anthropologist researching how moral finance and racial capitalism manif
 </li>
 </ul>
 
+<h2>Academic Service</h2>
+<ul>
+<li>Placeholder</li>
+</ul>
+  
 <h2>Education</h2>
 <p><strong>Research Master’s in Social Sciences</strong> — University of Amsterdam<br />
 <em>September 2025 – Expected June 2027</em></p>
