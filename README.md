@@ -51,13 +51,13 @@ I am an anthropologist researching how moral finance and racial capitalism manif
   <li>
   <strong>Birds of a Feather:</strong> Multispecies Manifestations of Exclusion and Care through the Lens of Amsterdam’s Homeless and Pigeon Populations
   <p>
- <Strong>Research Question:</Strong> How do mechanisms of exploitation that serve as the base of the violence of urban life pass onto other-than-humans inhabitants
+ <Strong>Research Question:</Strong> How do mechanisms of exploitation that serve as the base of the violence of urban life pass onto other-than-humans inhabitants?
   </p>
 </li>
   <li>
   <strong>Deep Rift:</strong> How the Ecuadorian Earthquake of 2016 Deepened Divisions within the Country
   <p>
- <Strong>Research Question:</Strong>
+ <Strong>Research Question:</Strong> How did colonially produced regional inequalities produce differential vulnerabilities in Ecuador's 2016 earthquake and how were narratives of state efficiency in reconstruction mobilized to (i)legitimate the state?
   </p>
 </li>
   <li>
@@ -69,14 +69,30 @@ I am an anthropologist researching how moral finance and racial capitalism manif
   <strong>Honours expansion — Transnational Calling Plan:</strong> Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers
   </p>
   <p>
-  <Strong>Research Question:</Strong>
+  <Strong>Research Question:</Strong> How does the call center industry in Costa Rica interact with already existing hierarchical relationships within transnational racial capitalism?
   </p>
 </li>
 </ul>
 
 <h2>Academic Service</h2>
 <ul>
-<li>Placeholder</li>
+<li> 
+<p>
+  2025/2026 Editor for the anthropology student magazine "Cul"
+</p>
+  <p>
+  06/06/2025 Organized and presented at the CASA conference "Out of Sight"
+</p>
+<p>
+  28/02/2025 Co-organized the LaSSA National Visual Anthropology Film Festival
+</p>
+  <p>
+   06/02/2025 Organized the CASA conference "Land"
+ </p>
+  <p>
+    20/11/2024 Organized the CASA conference "Cooperation, Co-creation, and resistance"
+  </p>
+</li>
 </ul>
   
 <h2>Education</h2>
