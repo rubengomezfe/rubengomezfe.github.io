@@ -86,23 +86,19 @@ I am an anthropologist researching how moral finance and racial capitalism manif
 
 <section>
   <h2>Education</h2>
-  <p>
-    <strong>Research Master’s in Social Sciences</strong> — University of Amsterdam<br>
-    <em>September 2025 – Expected June 2027</em>
-  </p>
-  <ul>
-    <li>Interpretative Track</li>
-    <li>Current GPA: 8.4</li>
-  </ul>
+ <p><strong>Research Master’s in Social Sciences</strong> — University of Amsterdam<br />
+<em>September 2025 – Expected June 2027</em></p>
+<ul>
+  <li>Interpretative Track</li>
+  <li>Current GPA:8.4</li>
+</ul>
 
-  <p>
-    <strong>BSc in Cultural Anthropology and Development Sociology</strong> — University of Amsterdam<br>
-    <em>September 2022 – June 2025</em>
-  </p>
-  <ul>
-    <li><em>Cum Laude</em></li>
-    <li>College of Social Sciences Honours & Talent Programme</li>
-  </ul>
+<p><strong>BSc in Cultural Anthropology and Development Sociology</strong> — University of Amsterdam<br />
+<em>September 2022 – June 2025</em></p>
+<ul>
+  <li><em>Cum Laude</em></li>
+  <li>College of Social Sciences Honours & Talent Programme</li>
+</ul>
 </section>
 
 <section>
