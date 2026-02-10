@@ -5,19 +5,9 @@
 
 <section>
   <h2>Profile</h2>
-  <p>
-    I am an anthropologist researching how moral finance and racial capitalism manifest
-    in the context of indigenous banks in Ecuador. My interests span land tenure, food
-    systems, indigeneity, and financialization, with an emphasis on how these dynamics
-    unfold in everyday institutional and social practice.
-  </p>
-  <p>
-    My analytical approach draws on Marxist and Foucauldian traditions, which I use to
-    nuance top-down theories of capitalism, racialization, and the nation-state by
-    grounding them in lived experience. Methodologically, I work with multiple forms
-    of ethnography, specializing in participant observation, multispecies, digital,
-    and autoethnography.
-  </p>
+<p>
+I am an anthropologist researching how moral finance and racial capitalism manifest in the context of indigenous banks in Ecuador. My interests combine the studies of land tenure, food systems, indigeneity, and financialization. My main analytical tools are based on Marxist and Foucauldian traditions through which I aim to add nuance to top-down theories on capitalism, racialization, and the nation-state by comparing them to people's lived experiences. I have experience in multiple types of ethnography, specializing in participant observation, multispecies, digital, and autoethnography, which allows me to integrate varied empirical cases into theoretical discussions.
+</p>
 </section>
 
 <section>
