@@ -84,11 +84,13 @@ I am an anthropologist researching how moral finance and racial capitalism manif
 <section>
   <h2>Academic Service</h2>
   <ul>
-    <li>2025–2026 — Editor, anthropology student magazine <em>Cul</em></li>
+    <li>2025–ongoing — Editor, anthropology student magazine <em>Cul</em></li>
     <li>06/06/2025 — Organizer and presenter, CASA Conference “Out of Sight”</li>
     <li>28/02/2025 — Co-organizer, LaSSA National Visual Anthropology Film Festival</li>
     <li>06/02/2025 — Organizer, CASA Conference “Land”</li>
     <li>20/11/2024 — Organizer, CASA Conference “Cooperation, Co-creation, and Resistance”</li>
+    <li>2024-2025 — General Board Member of LaSSA: Landelijke Samenwerking Studenten Antropologie
+    <li>2024-2025 — Study Coordinator of CASA: Cultural Anthropology Study Association (UvA)
   </ul>
 </section>
 
