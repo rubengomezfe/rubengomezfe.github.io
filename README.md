@@ -31,13 +31,14 @@ I am an anthropologist researching how moral finance and racial capitalism manif
       <strong>Documents and Bodies:</strong> An Autoethnography on Passports and the Enactment of Race<br>
       <strong>Research question:</strong> How do passports mediate enactments of race despite lacking race as a descriptive category?
     </li>
-
+    <ul/>
+<ul>
     <li>
       <strong>Lines in the Sand:</strong> Understanding Anti-Migration Attitudes in Migrant Communities<br>
       <strong>Research question:</strong> How can we understand the formation of anti-migration stances within migrant communities, particularly among Venezuelan and Cuban communities in Miami?
     </li>
     <li>
-    <strong>Self-Marketisation through Publication Metrics:</strong> A Case Study on the Accumulation of Symbolic Capital in the Academic Field
+    <strong>Self-Marketisation through Publication Metrics:</strong> A Case Study on the Accumulation of Symbolic Capital in the Academic Field <br>
     <strong>Research Question:</strong> How does the self-marketisation of scholars through publication metrics influence the struggle for symbolic capital in the academic field?
   </ul>
 
