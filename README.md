@@ -74,8 +74,8 @@ I am an anthropologist researching how moral finance and racial capitalism manif
     <li>
       <strong>On Hold:</strong> Meaning-Making and Constructing the Costa Rican Call Center Worker<br>
       <strong>Research question:</strong> How do middle-class Costa Rican young adults experience the transnational call center industry?<br>
-      <strong>Honours expansion — Transnational Calling Plan:
-      Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers</strong>
+      <strong>Honours expansion — Transnational Calling Plan:</strong>
+      Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers
       <strong>Research question:</strong> How does the call center industry in Costa Rica interact with pre-existing hierarchical relations within transnational racial capitalism?
     </li>
   </ul>
