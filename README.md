@@ -44,7 +44,8 @@ I am an anthropologist researching how moral finance and racial capitalism manif
     <strong>Research Question:</strong> How does the self-marketisation of scholars through publication metrics influence the struggle for symbolic capital in the academic field?
         </li>
    </ul>
-      </section>
+  </section>
+  <section>
   <h3>Monitoring and Evaluation</h3>
   <ul>
     <li>
