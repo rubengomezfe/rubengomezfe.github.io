@@ -36,6 +36,9 @@ I am an anthropologist researching how moral finance and racial capitalism manif
       <strong>Lines in the Sand:</strong> Understanding Anti-Migration Attitudes in Migrant Communities<br>
       <strong>Research question:</strong> How can we understand the formation of anti-migration stances within migrant communities, particularly among Venezuelan and Cuban communities in Miami?
     </li>
+    <li>
+    <strong>Self-Marketisation through Publication Metrics:</strong> A Case Study on the Accumulation of Symbolic Capital in the Academic Field
+    <strong>Research Question:</strong> How does the self-marketisation of scholars through publication metrics influence the struggle for symbolic capital in the academic field?
   </ul>
 
   <h3>Monitoring and Evaluation</h3>
