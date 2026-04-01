@@ -78,8 +78,7 @@ I am an anthropologist researching how moral finance and racial capitalism manif
       Systems of Transnational Racial Capitalism and Segregation in Costa Rican Call Centers
       <strong>Research question:</strong> How does the call center industry in Costa Rica interact with pre-existing hierarchical relations within transnational racial capitalism?
     </li>
-  </ul>
-</section>
+  
 
 <section>
   <h2>Academic Service</h2>
